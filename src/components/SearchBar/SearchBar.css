@@ -15,7 +15,10 @@
   color: #262626;
 }
 .image-wrapper {
-  height: 50px;
+  display: flex;
+  align-items: baseline;
+  height: 80px;
+  
 }
 
 .logo-image {
@@ -29,3 +32,11 @@
 .social {
   width: 50px;
 }
+
+.fa-instagram{
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  margin: 5px 2px;
+}
+
